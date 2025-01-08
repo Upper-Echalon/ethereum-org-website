@@ -4,7 +4,7 @@ description: 關於如何開始聯合以太幣質押的概覽
 lang: zh-tw
 template: staking
 emoji: ":money_with_wings:"
-image: /staking/leslie-pool.png
+image: /images/staking/leslie-pool.png
 alt: 萊斯利犀牛在池中游泳
 sidebarDepth: 2
 summaryPoints:
@@ -68,7 +68,7 @@ summaryPoints:
 
 或者，使用 ERC-20 質押代幣的質押池允許使用者在公開市場上交易該代幣，讓你可以出售質押位置，這相當於允許你「提款」，但無需實際從質押合約中移除以太幣。
 
-<ButtonLink to="/staking/withdrawals/">更多質押提款相關資訊</ButtonLink>
+<ButtonLink href="/staking/withdrawals/">更多質押提款相關資訊</ButtonLink>
 </ExpandableCard>
 
 <ExpandableCard title="這與我在交易所進行質押有什麼不同？">

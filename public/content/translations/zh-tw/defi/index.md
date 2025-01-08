@@ -4,7 +4,7 @@ description: 以太坊生態系之去中心化金融概要
 lang: zh-tw
 template: use-cases
 emoji: ":money_with_wings:"
-image: /use-cases/defi.png
+image: /images/use-cases/defi.png
 alt: 以樂高積木製作的以太幣標誌。
 sidebarDepth: 2
 summaryPoint1: 現行金融系統的全球開放性替代方案。
@@ -334,7 +334,7 @@ Dai、USDC 等穩定幣的價值和美元的差距通常維持在幾美分之內
   關於建構去中心化應用程式
 </ButtonLink>
 
-## 延伸閱讀 {#futher-reading}
+## 了解更多 {#further-reading}
 
 ### 去中心化金融資料 {#defi-data}
 
@@ -355,3 +355,7 @@ Dai、USDC 等穩定幣的價值和美元的差距通常維持在幾美分之內
 
 - [DeFi Llama Discord 伺服器](https://discord.defillama.com/)
 - [DeFi Pulse Discord 伺服器](https://discord.gg/Gx4TCTk)
+
+<Divider />
+
+<QuizWidget quizKey="defi" />

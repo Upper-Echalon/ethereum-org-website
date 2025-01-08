@@ -4,7 +4,7 @@ description: イーサリアムにおける分散型金融(DeFi)の概要
 lang: ja
 template: use-cases
 emoji: ":money_with_wings:"
-image: /use-cases/defi.png
+image: /images/use-cases/defi.png
 alt: レゴブロックで作られたETHのロゴ
 sidebarDepth: 2
 summaryPoint1: 現在の金融システムに変わる、グローバルで開かれた分散型金融。
@@ -334,7 +334,7 @@ PoolTogetherのような損失のない宝くじは、楽しく革新的な新�
   分散型アプリ(Dapp)構築の詳細
 </ButtonLink>
 
-## 参考文献 {#futher-reading}
+## 参考文献 {#further-reading}
 
 ### 分散型金融(DeFi)データ {#defi-data}
 
@@ -355,3 +355,7 @@ PoolTogetherのような損失のない宝くじは、楽しく革新的な新�
 
 - [DeFi Pulse Discord server](https://discord.defillama.com/)
 - [DeFi Pulse Discord server](https://discord.gg/Gx4TCTk)
+
+<Divider />
+
+<QuizWidget quizKey="defi" />

@@ -4,7 +4,7 @@ description: 關於如何開始聯合以太幣質押的概覽
 lang: zh-tw
 template: staking
 emoji: ":money_with_wings:"
-image: /staking/leslie-saas.png
+image: /images/staking/leslie-saas.png
 alt: 漂浮在雲端的犀牛萊斯利。
 sidebarDepth: 2
 summaryPoints:
@@ -78,7 +78,7 @@ BLS 提款金鑰用於簽署一次性訊息，說明應將質押酬勞和退出�
 
 驗證者還可以作為驗證者完全退出，這將解鎖剩餘的以太幣餘額以供提款。 已提供執行提款地址並完成退出流程的帳戶，提供的提款地址將在下一次驗證者掃描期間收到全部餘額。
 
-<ButtonLink to="/staking/withdrawals/">更多關於提取質押代幣的資訊</ButtonLink>
+<ButtonLink href="/staking/withdrawals/">更多關於提取質押代幣的資訊</ButtonLink>
 </ExpandableCard>
 
 <ExpandableCard title="如果我遭到罰沒，會發生什麼事？" eventCategory="SaasStaking" eventName="clicked what happens if I get slashed">

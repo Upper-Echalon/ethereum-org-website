@@ -4,7 +4,7 @@ description: Bevezetés az Ethereum virtuális gépbe és arról, hogy hogyan ka
 lang: hu
 ---
 
-Az Ethereum Virtual Machine (EVM) egy decentralizált virtuális környezet, amely következetesen és biztonságosan hajtja végre a kódot az összes Ethereum csomóponton. A csomópontok az EVM-et futtatják az intelligens szerződések végrehajtására, a „[gáz](/gas/)” használatával mérik a [műveletekhez](/developers/docs/evm/opcodes/) szükséges számítási erőfeszítést, biztosítva az erőforrások hatékony elosztását és a hálózat biztonságát.
+Az Ethereum Virtual Machine (EVM) egy decentralizált virtuális környezet, amely következetesen és biztonságosan hajtja végre a kódot az Ethereum összes csomópontján. A csomópontok az EVM-et futtatják az intelligens szerződések végrehajtására, a „[gáz](/gas/)” használatával mérik a [műveletekhez](/developers/docs/evm/opcodes/) szükséges számítási erőfeszítést, biztosítva az erőforrások hatékony elosztását és a hálózat biztonságát.
 
 ## Előfeltételek {#prerequisites}
 
@@ -61,7 +61,6 @@ Az [Ethereum végrehajtási kliensek](/developers/docs/nodes-and-clients/#execut
 - [Py-EVM](https://github.com/ethereum/py-evm) - _Python_
 - [evmone](https://github.com/ethereum/evmone) - _C++_
 - [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) - _JavaScript_
-- [eEVM](https://github.com/microsoft/eevm) - _C++_
 - [revm](https://github.com/bluealloy/revm) - _Rust_
 
 ## További olvasnivaló {#further-reading}

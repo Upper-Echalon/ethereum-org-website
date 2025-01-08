@@ -4,7 +4,7 @@ description: Un aperçu de la façon de débuter avec la mise en jeu d'ETH mutua
 lang: fr
 template: staking
 emoji: ":money_with_wings:"
-image: /staking/leslie-pool.png
+image: /images/staking/leslie-pool.png
 alt: Leslie le rhinocéros nage dans la piscine.
 sidebarDepth: 2
 summaryPoints:
@@ -68,7 +68,7 @@ Et c'est déjà le cas ! La mise à niveau du réseau Shanghai/Capella a eu lieu
 
 Alternativement, les pools qui utilisent les jetons de staking ERC-20 permettent à leurs utilisateurs d'échanger ce jeton sur le marché ouvert, vous permettant de vendre votre position de mise, en retirant sans pour autant supprimer l'ETH du contrat de staking.
 
-<ButtonLink to="/staking/withdrawals/">En savoir plus sur les retraits de mise en jeu.</ButtonLink>
+<ButtonLink href="/staking/withdrawals/">En savoir plus sur les retraits de mise en jeu.</ButtonLink>
 </ExpandableCard>
 
 <ExpandableCard title="Est-ce différent de la mise en jeu via mon service d'échange ?">

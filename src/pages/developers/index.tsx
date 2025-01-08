@@ -33,10 +33,10 @@ import { getLastDeployDate } from "@/lib/utils/getLastDeployDate"
 import { getLocaleTimestamp } from "@/lib/utils/time"
 import { getRequiredNamespacesForPage } from "@/lib/utils/translations"
 
-import SpeedRunEthereumImage from "@/public/dev-tools/speed-run-ethereum-banner.png"
-import DevelopersImage from "@/public/developers-eth-blocks.png"
-import DogeImage from "@/public/doge-computer.png"
-import HeroImage from "@/public/heroes/developers-hub-hero.jpg"
+import SpeedRunEthereumImage from "@/public/images/dev-tools/speed-run-ethereum-banner.png"
+import DevelopersImage from "@/public/images/developers-eth-blocks.png"
+import DogeImage from "@/public/images/doge-computer.png"
+import HeroImage from "@/public/images/heroes/developers-hub-hero.jpg"
 
 const Page = (props: ChildOnlyProp) => (
   <Flex
@@ -280,7 +280,7 @@ const DevelopersPage = () => {
               title={path.title}
               description={path.description}
             >
-              <ButtonLink to={path.url}>{path.button}</ButtonLink>
+              <ButtonLink href={path.url}>{path.button}</ButtonLink>
             </StyledCard>
           ))}
         </StyledCardContainer>
@@ -317,7 +317,7 @@ const DevelopersPage = () => {
             alt={t("page-developers-index:alt-eth-blocks")}
           >
             <div>
-              <ButtonLink to="https://github.com/ethereum/ethereum-org-website">
+              <ButtonLink href="https://github.com/ethereum/ethereum-org-website">
                 <Translation id="page-developers-index:page-developers-contribute" />
               </ButtonLink>
             </div>

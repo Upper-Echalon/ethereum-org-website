@@ -4,7 +4,7 @@ description: Огляд DeFi на Ethereum
 lang: uk
 template: use-cases
 emoji: ":money_with_wings:"
-image: /use-cases/defi.png
+image: /images/use-cases/defi.png
 alt: Логотип Eth із блоків Lego.
 sidebarDepth: 2
 summaryPoint1: Глобальна відкрита альтернатива наявній фінансовій системі.
@@ -334,7 +334,7 @@ DeFi — це ініціатива з відкритим вихідним код
   Докладніше про децентралізовані програми для розбудови
 </ButtonLink>
 
-## Довідкові ресурси {#futher-reading}
+## Довідкові джерела {#further-reading}
 
 ### Інформація про DeFi {#defi-data}
 

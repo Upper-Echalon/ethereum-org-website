@@ -4,7 +4,7 @@ description: Μια επισκόπηση της DeFi στο Ethereum
 lang: el
 template: use-cases
 emoji: ":money_with_wings:"
-image: /use-cases/defi.png
+image: /images/use-cases/defi.png
 alt: Το λογότυπο Eth κατασκευασμένο από τούβλα lego.
 sidebarDepth: 2
 summaryPoint1: Μια παγκόσμια, ανοικτή εναλλακτική λύση στο τρέχον χρηματοπιστωτικό σύστημα.
@@ -334,7 +334,7 @@ H DeFi είναι ένας γενικός όρος για οικονομικά �
   Περισσότερα για τη δημιουργία dapp
 </ButtonLink>
 
-## Περισσότερες πληροφορίες {#futher-reading}
+## Περισσότερες πληροφορίες {#further-reading}
 
 ### Δεδομένα DeFi {#defi-data}
 
@@ -355,3 +355,7 @@ H DeFi είναι ένας γενικός όρος για οικονομικά �
 
 - [DeFi Llama διακομιστής Discord](https://discord.defillama.com/)
 - [DeFi Pulse διακομιστής Discord](https://discord.gg/Gx4TCTk)
+
+<Divider />
+
+<QuizWidget quizKey="defi" />
